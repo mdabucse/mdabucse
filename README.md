@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Abubakkar%20S&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20IIT%20Madras%20%7C%2010%C3%97%20Hackathon%20Winner&descAlignY=58&descSize=16&descColor=a0a0c0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Abubakkar%20S&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Associate%20Engineer%20%7C%20IIT%20Madras%20%7C%2010%C3%97%20Hackathon%20Winner&descAlignY=58&descSize=16&descColor=a0a0c0" />
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mohamedabubakkar.com-302b63?style=for-the-badge)](https://www.mohamedabubakkar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imabu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imabu)
